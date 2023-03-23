@@ -3,7 +3,7 @@ Knowledge about Playstation 2
 
 #Winhiip
 Tools for add / extract PS2 Games (iso)
-https://www.psx-place.com/resources/obsolete-winhiip-by-gadgetfreak.666/
+https://github.com/leonkasovan/Playstation-2-PS2-/releases/download/first/WinHIIP176.zip
 
 #Compress PS2 ROM
 Tool chdman  
